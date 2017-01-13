@@ -6,12 +6,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>sist.fers</groupId>
-	<artifactId>sistfers</artifactId>
+	<artifactId>pcbangadmin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>sistfers</name>
-	<description>sistfers.github.io Project</description>
+	<name>PCbangAdmin</name>
+	<description>SIST F 3Team PCbang Management Admin Project</description>
 	<url>http://sistfers.github.io</url>
 
 	<properties>
@@ -64,9 +64,9 @@
 		<dependency>
 			<groupId>oracle.jdbc</groupId>
 			<artifactId>OracleDriver</artifactId>
-			<version>ojdbc7</version>
+			<version>ojdbc6</version>
 			<scope>system</scope>
-			<systemPath>${webapp-directory}/WEB-INF/lib/ojdbc7.jar</systemPath>
+			<systemPath>${webapp-directory}/WEB-INF/lib/ojdbc6.jar</systemPath>
 		</dependency>
 
 		<dependency>
