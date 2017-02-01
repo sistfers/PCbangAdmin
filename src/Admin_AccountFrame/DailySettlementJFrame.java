@@ -22,6 +22,7 @@ import javax.swing.SwingConstants;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 
+import Admin_dbfiles.SetDBconnection;
 import all_DTO.DailySettlementDTO;
 
 public class DailySettlementJFrame extends JFrame implements ActionListener {

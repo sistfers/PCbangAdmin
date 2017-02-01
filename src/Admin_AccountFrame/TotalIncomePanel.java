@@ -19,6 +19,7 @@ import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 
 import Admin_dbfiles.DBConnectionMgr;
+import Admin_dbfiles.SetDBconnection;
 import Admin_starts.Vcontrol;
 
 public class TotalIncomePanel extends JPanel implements ActionListener {

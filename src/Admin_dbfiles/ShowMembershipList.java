@@ -1,4 +1,4 @@
-package Admin_AccountFrame;
+package Admin_dbfiles;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 
-
+import Admin_AccountFrame.MembershipManagementJFrame;
 import all_DTO.MembershipDTO;
 
 public class ShowMembershipList {

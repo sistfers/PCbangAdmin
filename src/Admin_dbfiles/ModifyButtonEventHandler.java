@@ -1,4 +1,4 @@
-package Admin_AccountFrame;
+package Admin_dbfiles;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
@@ -11,6 +11,8 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
+
+import Admin_AccountFrame.MembershipManagementJFrame;
 
 public class ModifyButtonEventHandler implements ActionListener {
 	
