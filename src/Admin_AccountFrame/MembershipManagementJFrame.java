@@ -9,6 +9,10 @@ import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 
+import Admin_dbfiles.DeleteButtonEventHandler;
+import Admin_dbfiles.ModifyButtonEventHandler;
+import Admin_dbfiles.ShowMembershipList;
+
 public class MembershipManagementJFrame extends JFrame implements MouseListener {
 	
 	private JButton modify_memberPassword;
