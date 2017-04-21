@@ -5,7 +5,7 @@ git_hub 기반의 스프링을 활용한 실전 프레임워크 설계와 구축
 자바 Swihg을 사용한 PC방 시스템 솔루션 제작 프로젝트(2주)
 ## Team
 •	전창건( Project Manager)
-•	김태영
+•	김태영-
 •	배한주
 •	조영숙
 •	박성우
@@ -75,19 +75,19 @@ PC방 솔루션 프로젝트
 ## VIEW
 사용자 클라이언트
 
-![PCbangAdmin](https://github.com/sistfers/PCbangAdmin/tree/master/readimg사용자 클라이언트.PNG)
+![PCbangAdmin](https://github.com/sistfers/PCbangAdmin/blob/master/readimg/%EC%82%AC%EC%9A%A9%EC%9E%90%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8.png)
 
 사용자 클라이언트에서 회원가입
 사용중인 좌석 디스플레이 , 마우스클릭으로 좌석 선택 로그인시 사용시작
 
-![PCbangAdmin](https://github.com/sistfers/PCbangAdmin/tree/master/readimg사용자 클라 로그인후.PNG)
+![PCbangAdmin](https://github.com/sistfers/PCbangAdmin/blob/master/readimg/%EC%82%AC%EC%9A%A9%EC%9E%90%20%ED%81%B4%EB%9D%BC%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%9B%84.PNG)
 
 로그인시 오른쪽 상단에 실시간 시간 및 좌석번호 디스플레이
 먹거리주문		관리자와 실시간 채팅 가능
 
 중앙 관리자 클라이언트 주요 기능
 
-![PCbangAdmin](https://github.com/sistfers/PCbangAdmin/tree/master/readimg관리자 클라이언트 주요기능.PNG)
+![PCbangAdmin](https://github.com/sistfers/PCbangAdmin/blob/master/readimg/%EA%B4%80%EB%A6%AC%EC%9E%90%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5.png)
 
 전체 pc on/off 
 당일 매출 조회
