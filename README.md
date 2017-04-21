@@ -62,32 +62,32 @@ PC방 솔루션 프로젝트
 
 #### Database UML
 
-![PCbangAdmin] (http://sistfers.github.io/PCbangAdmin/readimg/db모델링.PNG)
+![PCbangAdmin](http://sistfers.github.io/PCbangAdmin/readimg/db모델링.PNG)
 
 
 #### Class UML
-![PCbangAdmin] (http://sistfers.github.io/PCbangAdmin/readimg/모델링.PNG)
+![PCbangAdmin](http://sistfers.github.io/PCbangAdmin/readimg/모델링.PNG)
 
 
 ### Project Schedule
-![PCbangAdmin] (http://sistfers.github.io/PCbangAdmin/readimg/계획.PNG)
+![PCbangAdmin](http://sistfers.github.io/PCbangAdmin/readimg/계획.PNG)
 
 ## VIEW
 사용자 클라이언트
 
-![PCbangAdmin] (http://sistfers.github.io/PCbangAdmin/readimg/사용자 클라이언트.PNG)
+![PCbangAdmin](http://sistfers.github.io/PCbangAdmin/readimg/사용자 클라이언트.PNG)
 
 사용자 클라이언트에서 회원가입
 사용중인 좌석 디스플레이 , 마우스클릭으로 좌석 선택 로그인시 사용시작
 
-![PCbangAdmin] (http://sistfers.github.io/PCbangAdmin/readimg/사용자 클라 로그인후.PNG)
+![PCbangAdmin](http://sistfers.github.io/PCbangAdmin/readimg/사용자 클라 로그인후.PNG)
 
 로그인시 오른쪽 상단에 실시간 시간 및 좌석번호 디스플레이
 먹거리주문		관리자와 실시간 채팅 가능
 
 중앙 관리자 클라이언트 주요 기능
 
-![PCbangAdmin] (http://sistfers.github.io/PCbangAdmin/readimg/관리자 클라이언트 주요기능.PNG)
+![PCbangAdmin](http://sistfers.github.io/PCbangAdmin/readimg/관리자 클라이언트 주요기능.PNG)
 
 전체 pc on/off 
 당일 매출 조회
